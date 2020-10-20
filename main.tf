@@ -31,5 +31,5 @@ locals {
 }
 
 module "utils" {
-  source = "git::https://github.com/cloudposse/terraform-aws-utils.git?ref=tags/0.1.0"
+  source = "git::https://github.com/Movile/terraform-aws-utils.git?ref=master"
 }
